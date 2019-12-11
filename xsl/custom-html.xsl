@@ -291,9 +291,9 @@
 </xsl:template>
 
 <!-- And its CSS class -->
-<xsl:template match="&PROJECT-LIKE;" mode="body-css-class">
+<!-- <xsl:template match="&PROJECT-LIKE;" mode="body-css-class">
     <xsl:text>project-like</xsl:text>
-</xsl:template>
+</xsl:template> -->
 
 <!-- Analytics Footers -->
 
