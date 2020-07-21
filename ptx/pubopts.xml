@@ -20,6 +20,7 @@ along with PreTeXt.  If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************-->
 
 <publication>
+    <source webwork-problems="webwork-representations.ptx"/>
 
     <!-- HTML-Specific Options -->
     <html>
